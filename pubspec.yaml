@@ -1,0 +1,93 @@
+name: app_test
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+  #fl_chart: ^0.40.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+ 
+  flutter_lints: ^4.0.0
+  fl_chart: ^0.69.0
+
+
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/MicrosoftTeams-image(23)1.png
+    - assets/images/Chatting.png
+    - assets/images/frame1.png
+    - assets/icons/google-logo1.png
+    - assets/icons/icon-mail-png-transparent-background-mail-logo-11562851894ksatrtd2da1.png
+    - assets/icons/téléchargement1.png
+    - assets/choses/Widget8.png
+    - assets/choses/Widget5.png
+    - assets/choses/Widget_5.png
+    - assets/choses/standing6.png
+    - assets/images/img/Avatar-1.png
+    - assets/images/img/Avatar.png
+    - assets/images/img/boy-22.png
+    - assets/images/img/facebook.png
+    - assets/images/img/instagram.png
+    - assets/images/img/Rectangle.png
+    - assets/images/img/Twitter.png
+    - assets/images/testImg/Avatar-1.png
+    - assets/images/testImg/Avatar-2.png
+    - assets/images/testImg/Avatar.png
+    - assets/images/testImg/boy-22.png
+    - assets/images/testImg/facebook.png
+    - assets/images/testImg/instagram.png
+    - assets/images/testImg/Rectangle.png
+    - assets/images/testImg/Twitter.png
+    - assets/images/Vector.png
+    - assets/images/Avatar-1.png
+    - assets/images/Avatar-2.png
+    - assets/images/Avatar.png
+    - assets/images/Vector2.png
+    - assets/images/Chatting2.png
+    - assets/images/profile2.png
+    - assets/images/profile1.png
+    - assets/logo.png
+    - assets/icons/Camera-icon.png
+    - assets/icons/google-logo-1.png
+
+  #   - images/a_dot_ham.jpeg
+
+ 
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package
